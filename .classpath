@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/groovy-3.0.8.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/groovy-json-3.0.8.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/groovy-xml-3.0.8.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/httpmime-4.5.13.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/json-path-4.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/rest-assured-4.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/rest-assured-common-4.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/xml-path-4.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Arun/API testing videos/jar files/testng-7.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
